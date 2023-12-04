@@ -1,1 +1,2 @@
-![diagrama](diagrama.png)
+![diagrama](DiagramadeCases.png)
+![diagrama](Diagrama de flujo.png)
